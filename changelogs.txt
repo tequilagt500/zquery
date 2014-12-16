@@ -1,0 +1,8 @@
+ZQUERY - Changelogs:
+
+Version 1.0.1
+ - Include execute many queries at the same time (up to 3 queries at least);
+ - Include "Generate FROM Clause" function;
+
+Version 1.0.0
+ - Created ZQUERY program;
