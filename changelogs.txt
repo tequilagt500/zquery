@@ -1,5 +1,10 @@
 ZQUERY - Changelogs:
 
+Version 1.0.2
+ - Include the possibility to execute a query and get the results with no conversion routines in the results ALV;
+ - Fixed bugs in FROM Generator tool;
+ - FIxed a DUMP when you select a single character and execute as a query;
+ 
 Version 1.0.1
  - Include execute many queries at the same time (up to 3 queries at least);
  - Include "Generate FROM Clause" function;
