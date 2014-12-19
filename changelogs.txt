@@ -1,5 +1,9 @@
 ZQUERY - Changelogs:
 
+Version 1.0.3
+ - Fixed GENERATE_SUBPOOL_DIR_FULL DUMP when execute more than 36 queries with leave the ZQUERY program;
+ - Fixed LCX_TABLE_NOT_FOUND DUMP BUG when execute a query where after FROM command is inputed the character "(" for the selection source tables.
+
 Version 1.0.2
  - Include the possibility to execute a query and get the results with no conversion routines in the results ALV;
  - Fixed bugs in FROM Generator tool;
